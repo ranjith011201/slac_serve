@@ -5,7 +5,7 @@ import 'package:slac_serve/screens/loginforngo.dart';
 class RegisterAs extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    var width = MediaQuery.of(context).size.width;
+    // var width = MediaQuery.of(context).size.width;
     return Scaffold(
       backgroundColor: Colors.black,
       body: Container(
